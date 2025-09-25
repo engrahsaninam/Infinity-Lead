@@ -1,0 +1,113 @@
+{
+  "node_modules/font-awesome/fonts/fontawesome-webfont.eot": {
+    "file": "assets/fontawesome-webfont-G5YE5S7X.eot",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.eot"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.svg": {
+    "file": "assets/fontawesome-webfont-D13rzr4g.svg",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.svg"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.ttf": {
+    "file": "assets/fontawesome-webfont-CQDK8MU3.ttf",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.ttf"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.woff": {
+    "file": "assets/fontawesome-webfont-CDK5bt4p.woff",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.woff"
+  },
+  "node_modules/font-awesome/fonts/fontawesome-webfont.woff2": {
+    "file": "assets/fontawesome-webfont-B-jkhYfk.woff2",
+    "src": "node_modules/font-awesome/fonts/fontawesome-webfont.woff2"
+  },
+  "node_modules/primeicons/fonts/primeicons.eot": {
+    "file": "assets/primeicons-DMOk5skT.eot",
+    "src": "node_modules/primeicons/fonts/primeicons.eot"
+  },
+  "node_modules/primeicons/fonts/primeicons.svg": {
+    "file": "assets/primeicons-Dr5RGzOO.svg",
+    "src": "node_modules/primeicons/fonts/primeicons.svg"
+  },
+  "node_modules/primeicons/fonts/primeicons.ttf": {
+    "file": "assets/primeicons-MpK4pl85.ttf",
+    "src": "node_modules/primeicons/fonts/primeicons.ttf"
+  },
+  "node_modules/primeicons/fonts/primeicons.woff": {
+    "file": "assets/primeicons-WjwUDZjB.woff",
+    "src": "node_modules/primeicons/fonts/primeicons.woff"
+  },
+  "node_modules/primeicons/fonts/primeicons.woff2": {
+    "file": "assets/primeicons-C6QP2o4f.woff2",
+    "src": "node_modules/primeicons/fonts/primeicons.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-C5864VvJ.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-yuEWrYK-.css"
+    ],
+    "assets": [
+      "assets/google-DxIZt1iD.png",
+      "assets/chatgpt-DBi1Zhfd.png",
+      "assets/no-chat-hTKNlE4u.png",
+      "assets/mail-CAQMoxma.png",
+      "assets/checkbox-C9cDkAFB.png",
+      "assets/csv-1KBDuElR.png",
+      "assets/sheet-CASIUuyR.png",
+      "assets/Visa-BSe61l8I.png",
+      "assets/Mastercard-DbKNp57w.png",
+      "assets/AmericanExpress-C37BDzst.png",
+      "assets/primeicons-DMOk5skT.eot",
+      "assets/primeicons-C6QP2o4f.woff2",
+      "assets/primeicons-WjwUDZjB.woff",
+      "assets/primeicons-MpK4pl85.ttf",
+      "assets/primeicons-Dr5RGzOO.svg",
+      "assets/fontawesome-webfont-G5YE5S7X.eot",
+      "assets/fontawesome-webfont-B-jkhYfk.woff2",
+      "assets/fontawesome-webfont-CDK5bt4p.woff",
+      "assets/fontawesome-webfont-CQDK8MU3.ttf",
+      "assets/fontawesome-webfont-D13rzr4g.svg"
+    ]
+  },
+  "resources/js/assets/AmericanExpress.png": {
+    "file": "assets/AmericanExpress-C37BDzst.png",
+    "src": "resources/js/assets/AmericanExpress.png"
+  },
+  "resources/js/assets/Mastercard.png": {
+    "file": "assets/Mastercard-DbKNp57w.png",
+    "src": "resources/js/assets/Mastercard.png"
+  },
+  "resources/js/assets/Visa.png": {
+    "file": "assets/Visa-BSe61l8I.png",
+    "src": "resources/js/assets/Visa.png"
+  },
+  "resources/js/assets/img/chatgpt.png": {
+    "file": "assets/chatgpt-DBi1Zhfd.png",
+    "src": "resources/js/assets/img/chatgpt.png"
+  },
+  "resources/js/assets/img/checkbox.png": {
+    "file": "assets/checkbox-C9cDkAFB.png",
+    "src": "resources/js/assets/img/checkbox.png"
+  },
+  "resources/js/assets/img/csv.png": {
+    "file": "assets/csv-1KBDuElR.png",
+    "src": "resources/js/assets/img/csv.png"
+  },
+  "resources/js/assets/img/google.png": {
+    "file": "assets/google-DxIZt1iD.png",
+    "src": "resources/js/assets/img/google.png"
+  },
+  "resources/js/assets/img/mail.png": {
+    "file": "assets/mail-CAQMoxma.png",
+    "src": "resources/js/assets/img/mail.png"
+  },
+  "resources/js/assets/img/no-chat.png": {
+    "file": "assets/no-chat-hTKNlE4u.png",
+    "src": "resources/js/assets/img/no-chat.png"
+  },
+  "resources/js/assets/img/sheet.png": {
+    "file": "assets/sheet-CASIUuyR.png",
+    "src": "resources/js/assets/img/sheet.png"
+  }
+}
